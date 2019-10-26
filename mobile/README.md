@@ -1,6 +1,6 @@
 # Meetapp
 
-Aplicativo para se inscrever em eventos e monitorar inscrições.
+Aplicativo para se inscrever em eventos e monitorar inscrições. Testado somente em android.
 
 #### Principais bibliotecas usadas
 
