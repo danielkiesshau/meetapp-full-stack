@@ -1,6 +1,6 @@
 ## Para configurar o projeto seguir os seguintes passos
 
-1. Criar um container **postgres**, um **redis** e usar o [mailtrap](https://mailtrap.io/) para a função de envio de emails do site.
+1. Criar um container **postgres**, um **redis** e usar o [mailtrap](https://mailtrap.io/) para a função de envio de emails do site ao cancelar um evento.
 2. Criar um novo arquivo **.env** baseado no **.env.example**
 3. Preencher as constantes abaixo do **#Database** com os dados do container de **postgres**.
 4. Preencher as constantes abaixo do **#Redis** com os dados do container de **redis**.
