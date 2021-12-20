@@ -1,3 +1,5 @@
+[Certificado RocketSeat](https://xesque.rocketseat.dev/certificates/3c95614b-e05b-4348-b477-5bfcd532caf9.pdf)
+
 ## Para configurar o projeto seguir os seguintes passos
 
 1. Criar um container **postgres**, um **redis** e usar o [mailtrap](https://mailtrap.io/) para a função de envio de emails do site ao cancelar um evento.
