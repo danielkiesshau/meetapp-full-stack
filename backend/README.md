@@ -1,19 +1,22 @@
 # Meetapp Back-end
 
-API Back-end para o funcionamento do Meetapp Web e Mobile.
-Criado usando postgres para os dados gerais do sistema e redis para a parte de emails.
+Back-end API for Meetapp Web and Mobile.
+Created using postgres for the system's general data and redis for the email part.
 
-#### Funcionalidades
+#### Features
 
-- Autenticação com token JWT
-- Upload de imagens
-- Envio de email ao cancelar eventos
-- CRUD de Usuários
-- CRUD de Eventos
+- JWT token authentication
+- Uploading images
+- Email sent when events are canceled
+- User CRUD
+- Events CRUD
 
-#### Principais bibliotecas usadas
+#### Main libraries used
 
 [express](https://github.com/expressjs/express)
 [nodemailer](https://github.com/nodemailer/nodemailer)
 [jsonwebtoken](https://github.com/rt2zz/redux-persist)
 [multer](https://github.com/redux-saga/redux-saga)
+
+
+Translated with DeepL.com (free version)
