@@ -1,8 +1,8 @@
 # Meetapp Web
 
-Aplicativo para criar, editar e cancelar eventos e monitorar que estarão disponíveis no aplicativo mobile do meetapp.
+Application for creating, editing and canceling events and monitoring that will be available in the meetapp mobile application.
 
-#### Principais bibliotecas usadas
+#### Main libraries used
 
 [styled-components](https://github.com/styled-components/styled-components)
 [redux](https://github.com/reduxjs/redux)
@@ -10,13 +10,13 @@ Aplicativo para criar, editar e cancelar eventos e monitorar que estarão dispon
 [redux-saga](https://github.com/redux-saga/redux-saga)
 [react-router-dom](https://reacttraining.com/react-router/web/guides/quick-start)
 
-## Telas do site
+## Site screens
 
-#### Fluxo de cancelamento/edição
+#### Cancellation/editing flow
 
-![Fluxo de cancelamento/edição](https://i.imgur.com/lCpcbvw.gif)
+![Cancel/edit flow](https://i.imgur.com/lCpcbvw.gif)
 
-#### Criação/Edição de visita
+#### Creating/Editing a visit
 
 ![](https://i.imgur.com/e0KOW6M.png)
 
@@ -28,6 +28,6 @@ Aplicativo para criar, editar e cancelar eventos e monitorar que estarão dispon
 
 ![Sign up](https://i.imgur.com/3nfgnHL.png)
 
-#### Perfil
+#### Profile
 
-![Perfil](https://i.imgur.com/jqDvXyw.png)
+![Profile](https://i.imgur.com/jqDvXyw.png)
