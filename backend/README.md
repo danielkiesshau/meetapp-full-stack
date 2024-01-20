@@ -17,6 +17,3 @@ Created using postgres for the system's general data and redis for the email par
 [nodemailer](https://github.com/nodemailer/nodemailer)
 [jsonwebtoken](https://github.com/rt2zz/redux-persist)
 [multer](https://github.com/redux-saga/redux-saga)
-
-
-Translated with DeepL.com (free version)
