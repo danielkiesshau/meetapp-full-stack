@@ -1,8 +1,8 @@
 # Meetapp
 
-Aplicativo para se inscrever em eventos e monitorar inscrições. Testado somente em android.
+Application to register for events and monitor registrations. Tested only on android.
 
-#### Principais bibliotecas usadas
+#### Main libraries used
 
 [styled-components](https://github.com/styled-components/styled-components)
 [redux](https://github.com/reduxjs/redux)
@@ -10,11 +10,11 @@ Aplicativo para se inscrever em eventos e monitorar inscrições. Testado soment
 [redux-saga](https://github.com/redux-saga/redux-saga)
 [react-navigation](https://github.com/react-navigation/react-navigation)
 
-## Telas do app
+## App screens
 
-#### Fluxo de inscrição
+#### Registration flow
 
-![Fluxo de inscrição](https://i.imgur.com/KENENhM.png)
+![Registration flow](https://i.imgur.com/KENENhM.png)
 
 #### Login
 
@@ -24,6 +24,6 @@ Aplicativo para se inscrever em eventos e monitorar inscrições. Testado soment
 
 ![Sign up](https://i.imgur.com/pukbhbM.png)
 
-#### Perfil
+#### Profile
 
-![Perfil](https://i.imgur.com/xN04LR5.png)
+![Profile](https://i.imgur.com/xN04LR5.png)
