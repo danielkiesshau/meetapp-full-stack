@@ -1,17 +1,17 @@
-[Certificado RocketSeat](https://xesque.rocketseat.dev/certificates/3c95614b-e05b-4348-b477-5bfcd532caf9.pdf)
+[RocketSeat Certificate](https://xesque.rocketseat.dev/certificates/3c95614b-e05b-4348-b477-5bfcd532caf9.pdf)
 
-## Para configurar o projeto seguir os seguintes passos
+## To configure the project, follow these steps
 
-1. Criar um container **postgres**, um **redis** e usar o [mailtrap](https://mailtrap.io/) para a função de envio de emails do site ao cancelar um evento.
-2. Criar um novo arquivo **.env** baseado no **.env.example**
-3. Preencher as constantes abaixo do **#Database** com os dados do container de **postgres**.
-4. Preencher as constantes abaixo do **#Redis** com os dados do container de **redis**.
-5. Preencher as constantes abaixo do **#Mail** com os dados informados no site do mailtrap.
+1. Create a **postgres** container, a **redis** and use [mailtrap](https://mailtrap.io/) for the function of sending emails from the site when an event is canceled.
+2. Create a new **.env** file based on **.env.example**.
+3. Fill in the constants below the **#Database** with the data from the **postgres** container.
+4. Fill in the constants below **#Redis** with the data from the **redis** container.
+5. Fill in the constants below **#Mail** with the data provided on the mailtrap website.
 6. `yarn`
 7. `yarn start`
 
-### Para rodar o mobile e o site
-1. Ir nas respectivas pastas (mobile ou web)
+### To run the mobile and the website
+1. go to the respective folders (mobile or web)
 2. `yarn`
 3. `yarn start`
-4. `yarn (android|ios)` (**só para o mobile**)
+4. `yarn (android|ios)` (**only for mobile**)
